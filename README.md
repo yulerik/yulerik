@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yulerik, I go by Forrest. Being in the woods is my preference.
 - 👀 I’m interested in running and software engineering.
 - 🌱 I’m currently learning the answers to life and JavaScript.
-- 💻 I’m looking to collaborate on beginner javascript projects.
+- 💻 I’m looking to collaborate on JavaScript projects.
 - 📫 How to reach me yulerik.sorensen@gmail.com
 
 <!---
